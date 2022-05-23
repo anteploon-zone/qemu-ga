@@ -1,1 +1,1 @@
-Just uncompressed QEmu Guest Agent files from official repos
+Just uncompressed QEMU Guest Agent files from official repos
